@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kubernetes-dashboard-amd64:v1.7.1
+FROM k8s.gcr.io/kube-apiserver:v1.13.1
 MAINTAINER chen13626@126.com
